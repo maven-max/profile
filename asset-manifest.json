@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.b1a7b6c1.css",
+    "main.js": "/profile/static/js/main.08dc4bb5.js",
+    "static/js/808.a81e3a12.chunk.js": "/profile/static/js/808.a81e3a12.chunk.js",
+    "static/media/EM EGOTE_GRAD.jpg": "/profile/static/media/EM EGOTE_GRAD.3371195b905cd97ee40c.jpg",
+    "index.html": "/profile/index.html",
+    "main.b1a7b6c1.css.map": "/profile/static/css/main.b1a7b6c1.css.map",
+    "main.08dc4bb5.js.map": "/profile/static/js/main.08dc4bb5.js.map",
+    "808.a81e3a12.chunk.js.map": "/profile/static/js/808.a81e3a12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a7b6c1.css",
+    "static/js/main.08dc4bb5.js"
+  ]
+}
