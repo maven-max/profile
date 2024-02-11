@@ -1,0 +1,16 @@
+import React from "react";
+import "./Footer.css";
+
+export default function Footer() {
+  return (
+    <div className="footer-container">
+      <div className="footer-parent">
+        <div></div>
+        <img 
+        src={require("../../../").default} 
+        alt="no internet connection" 
+        />
+      </div>
+    </div>
+  );
+}
